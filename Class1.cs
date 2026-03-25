@@ -11,6 +11,7 @@ namespace ConsoleApp4
         static void main(string[] args)
         {
             Console.WriteLine("Hello World");
+            Console.WriteLine("Novo");
         }
     }
 }
